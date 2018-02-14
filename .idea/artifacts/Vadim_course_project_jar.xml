@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vadim_course_project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vadim_course_project_jar</output-path>
+    <root id="archive" name="Vadim_plotnikov.jar">
+      <element id="module-output" name="Vadim_course_project" />
+    </root>
+  </artifact>
+</component>
